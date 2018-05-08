@@ -11,6 +11,8 @@ If you are animating views that don't contain any sort of transparency you will 
 
 ## Usage
 
+Download it [here](https://github.com/deckameron/Ti.Android.Animator/blob/master/android/dist/ti.android.animator-android-1.0.0.zip?raw=true)
+
 ```javascript
 var Animator = require('com.animecyc.animator');
     
