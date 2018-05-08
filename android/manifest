@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 4
+architectures: arm64-v8a armeabi-v7a x86
+description: animator
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2018 by Your Company
+
+# these should not be edited
+name: animator
+moduleid: ti.android.animator
+guid: abb1a4f9-428b-4442-989a-847a4d486d5f
+platform: android
+minsdk: 7.0.0.GA
