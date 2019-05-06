@@ -14,7 +14,7 @@ If you are animating views that don't contain any sort of transparency you will 
 Download it [here](https://github.com/deckameron/Ti.Android.Animator/blob/master/android/dist/ti.android.animator-android-1.0.0.zip?raw=true)
 
 ```javascript
-var Animator = require('com.animecyc.animator');
+var Animator = require('ti.android.animator');
     
 var mainWindow = Ti.UI.createWindow({
 	backgroundColor : 'white'
